@@ -6,7 +6,7 @@ Prerequisites for running the labs:
 
 These files were created for:
 * Representing x(t) in Matlab ( x(t) from x(t).png). 
-* Constructing and representing graphically in Matlab the signals xi (t), yi (t), day (t) for 37 periods.
+* Constructing and representing graphically in Matlab the signals xi(t), yi(t), zi(t) for 37 periods.
 * Constructing the single-phase and double-phase rectified signals and representing graphically for each of the signals xi (t), yi (t), zi(t).
 * Analyzing analytically the continuous component(CC) for xi(t), yi(t), zi(t).
 * Representing the signals xi(t), yi(t), zi(t) without CC.
