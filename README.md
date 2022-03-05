@@ -1,7 +1,7 @@
 # Signal-processing
 This repository contains signal processing project that uses Matlab.
 
-Prerequisites for running the labs:
+Prerequisites for running:
 * Matlab
 
 These files were created for:
