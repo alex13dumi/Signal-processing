@@ -4,7 +4,7 @@ This repository contains signal processing project that uses Matlab.
 Prerequisites for running:
 * Matlab
 
-Given an N you can represent x(t) based on its formula from the image below.
+Given N you can represent x(t) based on its formula from the image below.
 
 The files were created for:
 * Representing x(t) in Matlab ( x(t) from x(t).png). 
