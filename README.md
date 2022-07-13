@@ -12,5 +12,5 @@ These files were created for:
 * Representing the signals xi(t), yi(t), zi(t) without CC.
 * Writing a program in Matlab that calculates CC with an accuracy of 10E-7.
 * Calculating the power over a period for xi(t), yi(t), zi((t).
-
+![x(t)](/x(t).png)
 Note: RMA = Single Phase Rectification, RDA = Double Phase Rectification.
