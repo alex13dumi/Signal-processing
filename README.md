@@ -4,7 +4,9 @@ This repository contains signal processing project that uses Matlab.
 Prerequisites for running:
 * Matlab
 
-These files were created for:
+Given an N you can represent x(t) based on its formula from the image below.
+
+The files were created for:
 * Representing x(t) in Matlab ( x(t) from x(t).png). 
 * Constructing and representing graphically in Matlab the signals xi(t), yi(t), zi(t) for 37 periods.
 * Constructing the single-phase and double-phase rectified signals and representing graphically for each of the signals xi (t), yi (t), zi(t).
